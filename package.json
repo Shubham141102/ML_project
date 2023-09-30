@@ -1,0 +1,11 @@
+{
+  "name": "wakeup-watch",
+  "version": "1.0.0",
+  "description": "A Ml project which is able to detect sleep onset and wakeup for quality sleep",
+  "main": "main.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hiteshJain, PrathmeshIngole, SarangShelke, ShubhamHIpppargi",
+  "license": "ISC"
+}
